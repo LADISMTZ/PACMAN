@@ -1,0 +1,17 @@
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Release\net8.0-windows\Pacman.exe
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Release\net8.0-windows\Pacman.deps.json
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Release\net8.0-windows\Pacman.runtimeconfig.json
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Release\net8.0-windows\Pacman.dll
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Release\net8.0-windows\Pacman.pdb
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\Pacman.Form1.resources
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\Pacman.csproj.GenerateResource.cache
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\Pacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\Pacman.AssemblyInfoInputs.cache
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\Pacman.AssemblyInfo.cs
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\Pacman.sourcelink.json
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\Pacman.dll
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\refint\Pacman.dll
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\Pacman.pdb
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\Pacman.genruntimeconfig.cache
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Release\net8.0-windows\ref\Pacman.dll

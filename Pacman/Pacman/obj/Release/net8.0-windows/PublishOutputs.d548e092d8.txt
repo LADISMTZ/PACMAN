@@ -1,0 +1,5 @@
+C:\Users\Fer Ahuatzin\Downloads\Pacman.exe
+C:\Users\Fer Ahuatzin\Downloads\Pacman.dll
+C:\Users\Fer Ahuatzin\Downloads\Pacman.deps.json
+C:\Users\Fer Ahuatzin\Downloads\Pacman.runtimeconfig.json
+C:\Users\Fer Ahuatzin\Downloads\Pacman.pdb

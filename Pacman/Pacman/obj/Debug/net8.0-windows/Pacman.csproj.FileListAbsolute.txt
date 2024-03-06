@@ -1,0 +1,84 @@
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.exe
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.deps.json
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.runtimeconfig.json
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.dll
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.pdb
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.Form1.resources
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.csproj.GenerateResource.cache
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.AssemblyInfoInputs.cache
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.AssemblyInfo.cs
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.dll
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\obj\Debug\net8.0-windows\refint\Pacman.dll
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.pdb
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.genruntimeconfig.cache
+C:\Users\ladis\OneDrive\Escritorio\PACMAN\Pacman\Pacman\obj\Debug\net8.0-windows\ref\Pacman.dll
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.exe
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.deps.json
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.runtimeconfig.json
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.dll
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.pdb
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.Form1.resources
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.csproj.GenerateResource.cache
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.AssemblyInfoInputs.cache
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.AssemblyInfo.cs
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.sourcelink.json
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.dll
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\refint\Pacman.dll
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.pdb
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.genruntimeconfig.cache
+C:\Users\Fer Ahuatzin\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\ref\Pacman.dll
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.exe
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.deps.json
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.runtimeconfig.json
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.dll
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.pdb
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.Form1.resources
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.csproj.GenerateResource.cache
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.AssemblyInfoInputs.cache
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.AssemblyInfo.cs
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.sourcelink.json
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.dll
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\refint\Pacman.dll
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.pdb
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.genruntimeconfig.cache
+C:\Users\ladis\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\ref\Pacman.dll
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.exe
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.deps.json
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.dll
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.pdb
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.Form1.resources
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.sourcelink.json
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.dll
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\refint\Pacman.dll
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.pdb
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\ref\Pacman.dll
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.exe
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.deps.json
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.runtimeconfig.json
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.dll
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\bin\Debug\net8.0-windows\Pacman.pdb
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.Form1.resources
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.csproj.GenerateResource.cache
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.AssemblyInfoInputs.cache
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.AssemblyInfo.cs
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.sourcelink.json
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.dll
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\refint\Pacman.dll
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.pdb
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\Pacman.genruntimeconfig.cache
+D:\OneDrive\Documentos\GitHub\PacMan\Pacman\Pacman\Pacman\obj\Debug\net8.0-windows\ref\Pacman.dll
